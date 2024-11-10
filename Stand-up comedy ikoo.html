@@ -74,19 +74,18 @@
         <div class="footer">By Iqbal Khoir X-RPL 1</div>
     </div>
     <script>
-        // Memulai audio saat pengguna scroll atau menyentuh layar pertama kali
+        
         const audio = document.getElementById("background-audio");
 
         function startAudio() {
             audio.play().catch(error => {
                 console.log("Audio tidak bisa diputar otomatis:", error);
             });
-            // Menghapus event listener setelah audio diputar
-            document.removeEventListener("scroll", startAudio);
+             document.removeEventListener("scroll", startAudio);
             document.removeEventListener("touchstart", startAudio);
         }
 
-        // Menambahkan event listener untuk interaksi pengguna
+        
         document.addEventListener("scroll", startAudio);
         document.addEventListener("touchstart", startAudio);
     </script>
