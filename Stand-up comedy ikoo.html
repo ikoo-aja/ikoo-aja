@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stand-up Comedy Sekolah</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: Arial, sans-serif;
+            color: #ffffff;
+        }
+        body {
+            background: linear-gradient(to right, #3a1c71, #d76d77, #ffaf7b);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            padding: 30px;
+            background: rgba(0, 0, 0, 0.6);
+            border-radius: 15px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.4);
+            overflow-y: auto;
+            max-height: 90vh;
+            text-align: center;
+        }
+        h1 {
+            font-size: 2.5em;
+            margin-bottom: 20px;
+            color: #ffaf7b;
+        }
+        p {
+            line-height: 1.7;
+            margin-bottom: 15px;
+            text-align: justify;
+        }
+        .footer {
+            margin-top: 20px;
+            font-size: 1.2em;
+            color: #ffaf7b;
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+    <audio id="background-audio">
+        <source src="audio/untuk apa.mp3" type="audio/mpeg">
+        Browser kamu tidak mendukung audio.
+    </audio>
+    <div class="container">
+        <h1>Stand-up Comedy Sekolah</h1>
+        <p>Sekolah itu nggak afdol kalo belum dikasih PR. Tapi, kadang gue itu males banget ngerjain PR. Akhirnya PR gue kerjain di sekolah, gue berusaha berangkat pagi-pagi. Rajin banget pagi-pagi udah berangkat, padahal biar sempet ngerjain PR di sekolah.</p>
+        
+        <p>Yang gue sebel tuh kalo ada temen yang nyontek tapi nggak dikasih, gue dibilang pelit. Gue bukannya pelit, tapi dilema tau nggak sih. Nggak dikasih contekan dibilang pelit, mau ngasih contekan juga nggak baik. Yang lebih nyebelin tuh gini, gue ngasih contekan ke temen, eh nilai dia lebih tinggi dari gue.</p>
+        
+        <p>Kalo habis ulangan biasanya ada remidi buat para siswa yang nilainya nggak tuntas. Dengan ikut remidi, siswa berkesempatan memperbaiki nilai. Tapi, kadang soal remidi malah lebih susah dari soal ulangannya.</p>
+        
+        <p>Gimana ceritanya? Ini ibarat driver Gojek disuruh balapan sama Valentino Rossi. Ngomongin Rossi gue jadi inget MotoGP. Ada yang bilang kalo Marquez itu hebat karena motornya yang emang cepat. Ya iyalah, coba kalo Marquez balapannya pake Mio, yang lain pake motor 1.000 cc, balapannya di Jakarta, Jakartanya lagi banjir. Yang menang Marquez lah, soalnya balapannya jadi lomba dorong motor.</p>
+        
+        <p>Kalo hari Senin sekolah biasanya ngadain upacara. Dulu lapangan sekolah gue masih tanah, jadi kalo lapangannya becek nggak upacara. Makanya dulu gue seneng banget kalo hari Minggu hujan, berharap lapangan sekolah becek. Tapi, kalo gak hujan, hujan tapi lapangan tidak becek, masih ada harapan. Kali aja pagi-pagi hari senin gerimis.</p>
+        
+        <p>Di sekolah tuh ada yang namanya ujian nasional, atau disingkat UN. UN di Indonesia tuh nggak jauh-jauh dari yang namanya bocoran. Temen-temen pada patungan buat beli kunci jawaban UN. Sebelum UN pada anak-anak pada sibuk nyatet bocoran.</p>
+        
+        <p>Kalo gue sih nggak, nggak ikut patungan. Parahnya nih, ada yang nulis bocoran di mushola, biar nggak ketahuan. Mungkin malaikatnya bilang gini, “Alhamdulillah anak-anak sebelum mengikuti UN mau doa berjamaah dulu, mau solat dhuha”. Begitu pada masuk sekolah, eh malah pada nulis bocoran. Malaikat di-PHP-in.</p>
+        
+        <p>Pas UN dimulai, awalnya anteng, lama-lama nyontek. Lu tau dong kode-kode nyontek gimana, misalnya kalo jawabannya A pegang alis. Yang nggak sempet nyontek, pake metode ngitung kancing. Ada yang malah ngawasin pengawas.</p>
+        
+        <div class="footer">By Iqbal Khoir X-RPL 1</div>
+    </div>
+    <script>
+        // Memulai audio saat pengguna scroll atau menyentuh layar pertama kali
+        const audio = document.getElementById("background-audio");
+
+        function startAudio() {
+            audio.play().catch(error => {
+                console.log("Audio tidak bisa diputar otomatis:", error);
+            });
+            // Menghapus event listener setelah audio diputar
+            document.removeEventListener("scroll", startAudio);
+            document.removeEventListener("touchstart", startAudio);
+        }
+
+        // Menambahkan event listener untuk interaksi pengguna
+        document.addEventListener("scroll", startAudio);
+        document.addEventListener("touchstart", startAudio);
+    </script>
+</body>
+</html>
