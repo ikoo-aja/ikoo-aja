@@ -1,21 +1,25 @@
 <div align="center">
 
-  <h1>Ikoo</h1>
-
+  <!-- Header Banner -->
   <a href="https://github.com/ikoo-aja">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=460&lines=Software+Developer;Full-Stack+%26+Backend+Development;C%23+%7C+.NET+%7C+Python+%7C+JavaScript" alt="Typing SVG" />
+    <img src="https://capsule-render.vercel.app/api?type=slice&color=0:090d16,100:0f172a&height=180&section=header&text=Ikoo&fontSize=50&fontColor=38bdf8&fontAlignY=45&desc=Software%20Developer%20%7C%20Full-Stack%20%26%20Backend&descSize=18&descColor=94a3b8&descAlignY=70" width="100%" alt="Header Banner" />
   </a>
 
-  <p align="center">
-    Software developer focused on building functional, maintainable web applications and backend systems.
-  </p>
+  <!-- Typing Subtitle -->
+  <a href="https://github.com/ikoo-aja">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=38BDF8&center=true&vCenter=true&width=460&lines=C%23+%2F+.NET+Ecosystem;Python+%26+Backend+APIs;Modern+JavaScript+%26+Node.js;Relational+Databases+(MySQL%2C+MariaDB)" alt="Typing SVG" />
+  </a>
 
+  <br/><br/>
+
+  <!-- Status & Contact Badges -->
   <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=ikoo-aja&label=Profile+Views&color=0284c7&style=flat-square" alt="Profile Views" />
     <a href="https://github.com/ikoo-aja">
-      <img src="https://img.shields.io/badge/GitHub-ikoo--aja-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub-ikoo--aja-0f172a?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
     </a>
     <a href="mailto:ibrahimied004@gmail.com">
-      <img src="https://img.shields.io/badge/Email-ibrahimied004%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-ibrahimied004%40gmail.com-0f172a?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" />
     </a>
   </p>
 
@@ -25,19 +29,29 @@
 
 ## About Me
 
-```yaml
-profile:
-  username: ikoo-aja
-  role: Software Developer
-  contact: ibrahimied004@gmail.com
-  primary_stack: [C#, .NET, Python, JavaScript, PHP]
-```
-
-- **Focus**: Web application development, backend services, and database management.
-- **Languages**: C#, Java, Python, JavaScript, PHP.
-- **Backend & Environment**: .NET, Node.js, Apache.
-- **Databases**: MySQL, MariaDB.
-- **Deployment & Hosting**: Netlify, Vercel.
+<table width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <h3>Overview</h3>
+      <p>
+        Software developer focused on backend systems, RESTful API design, and practical full-stack web applications. Emphasizes clean architecture, maintainability, and reliable data persistence.
+      </p>
+      <p>
+        Works primarily with <strong>C# / .NET</strong>, <strong>Python</strong>, and <strong>Node.js</strong> on the backend, alongside <strong>MySQL</strong> and <strong>MariaDB</strong> for relational databases. Builds responsive interfaces with clean modern web standards.
+      </p>
+    </td>
+    <td width="40%" valign="top">
+      <h3>Quick Index</h3>
+      <ul>
+        <li><strong>Role:</strong> Software Developer</li>
+        <li><strong>Location:</strong> Indonesia</li>
+        <li><strong>Core Stack:</strong> C#, .NET, Python, Node.js</li>
+        <li><strong>Databases:</strong> MySQL, MariaDB</li>
+        <li><strong>Contact:</strong> <a href="mailto:ibrahimied004@gmail.com">ibrahimied004@gmail.com</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -45,7 +59,7 @@ profile:
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,py,js,nodejs,php,html,css,bootstrap,mysql,npm,netlify,vercel" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,py,js,nodejs,php,html,css,bootstrap,mysql,npm,netlify,vercel&perline=8&theme=dark" alt="Tech Stack Icons" />
   </a>
 </div>
 
@@ -54,7 +68,7 @@ profile:
 <table>
   <thead>
     <tr>
-      <th align="left">Category</th>
+      <th align="left" width="28%">Domain</th>
       <th align="left">Technologies</th>
     </tr>
   </thead>
@@ -62,42 +76,42 @@ profile:
     <tr>
       <td><strong>Languages</strong></td>
       <td>
-        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
-        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+        <img src="https://img.shields.io/badge/C%23-0f172a?style=flat-square&logo=csharp&logoColor=239120" alt="C#" />
+        <img src="https://img.shields.io/badge/.NET-0f172a?style=flat-square&logo=dotnet&logoColor=512BD4" alt=".NET" />
+        <img src="https://img.shields.io/badge/Java-0f172a?style=flat-square&logo=openjdk&logoColor=ED8B00" alt="Java" />
+        <img src="https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
+        <img src="https://img.shields.io/badge/JavaScript-0f172a?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/PHP-0f172a?style=flat-square&logo=php&logoColor=777BB4" alt="PHP" />
       </td>
     </tr>
     <tr>
       <td><strong>Frontend</strong></td>
       <td>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+        <img src="https://img.shields.io/badge/HTML5-0f172a?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-0f172a?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3" />
+        <img src="https://img.shields.io/badge/Bootstrap-0f172a?style=flat-square&logo=bootstrap&logoColor=7952B3" alt="Bootstrap" />
       </td>
     </tr>
     <tr>
       <td><strong>Backend & Server</strong></td>
       <td>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-        <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white" alt="Apache" />
+        <img src="https://img.shields.io/badge/Node.js-0f172a?style=flat-square&logo=node.js&logoColor=339933" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Apache-0f172a?style=flat-square&logo=apache&logoColor=D22128" alt="Apache" />
       </td>
     </tr>
     <tr>
       <td><strong>Databases</strong></td>
       <td>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-        <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB" />
+        <img src="https://img.shields.io/badge/MySQL-0f172a?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL" />
+        <img src="https://img.shields.io/badge/MariaDB-0f172a?style=flat-square&logo=mariadb&logoColor=003545" alt="MariaDB" />
       </td>
     </tr>
     <tr>
-      <td><strong>Tooling & Deployment</strong></td>
+      <td><strong>DevOps & Deployment</strong></td>
       <td>
-        <img src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white" alt="NPM" />
-        <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify" />
-        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+        <img src="https://img.shields.io/badge/NPM-0f172a?style=flat-square&logo=npm&logoColor=CB3837" alt="NPM" />
+        <img src="https://img.shields.io/badge/Netlify-0f172a?style=flat-square&logo=netlify&logoColor=00C7B7" alt="Netlify" />
+        <img src="https://img.shields.io/badge/Vercel-0f172a?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
       </td>
     </tr>
   </tbody>
@@ -112,22 +126,22 @@ profile:
   <table border="0">
     <tr>
       <td>
-        <img height="180" src="https://github-readme-stats.vercel.app/api?username=ikoo-aja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+        <img height="180" src="https://github-readme-stats.vercel.app/api?username=ikoo-aja&show_icons=true&bg_color=0f172a&title_color=38bdf8&text_color=cbd5e1&icon_color=38bdf8&border_color=1e293b&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
       </td>
       <td>
-        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikoo-aja&theme=tokyonight&hide_border=true&layout=compact&count_private=true" alt="Top Languages" />
+        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikoo-aja&bg_color=0f172a&title_color=38bdf8&text_color=cbd5e1&border_color=1e293b&hide_border=true&layout=compact&count_private=true" alt="Top Languages" />
       </td>
     </tr>
   </table>
 
   <p align="center">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=ikoo-aja&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=ikoo-aja&background=0f172a&border=1e293b&stroke=1e293b&ring=38bdf8&fire=38bdf8&currStreakNum=38bdf8&sideNums=cbd5e1&currStreakLabel=cbd5e1&sideLabels=94a3b8&dates=64748b&hide_border=true" alt="GitHub Streak" />
   </p>
 
   <details>
     <summary>GitHub Trophies</summary>
     <br/>
-    <img src="https://github-profile-trophy.vercel.app/?username=ikoo-aja&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+    <img src="https://github-trophies.vercel.app/?username=ikoo-aja&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
   </details>
 
 </div>
@@ -136,12 +150,6 @@ profile:
 
 <div align="center">
 
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-
-  <br/><br/>
-
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=ikoo-aja&icon=0&color=6" alt="Profile Views" />
-  </a>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&bg_color=0f172a&color=cbd5e1&title_color=38bdf8" alt="Dev Quote" />
 
 </div>
