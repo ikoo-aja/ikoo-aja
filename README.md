@@ -1,20 +1,19 @@
 <div align="center">
 
-  <!-- Header Banner -->
+  <h1>Ikoo</h1>
+
   <a href="https://github.com/ikoo-aja">
-    <img src="https://capsule-render.vercel.app/api?type=slice&color=0:090d16,100:0f172a&height=180&section=header&text=Ikoo&fontSize=50&fontColor=38bdf8&fontAlignY=45&desc=Software%20Developer%20%7C%20Full-Stack%20%26%20Backend&descSize=18&descColor=94a3b8&descAlignY=70" width="100%" alt="Header Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=480&lines=Software+Developer;Full-Stack+%26+Backend+Development;C%23+%7C+.NET+%7C+Python+%7C+JavaScript" alt="Typing SVG" />
   </a>
 
-  <!-- Typing Subtitle -->
-  <a href="https://github.com/ikoo-aja">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=38BDF8&center=true&vCenter=true&width=460&lines=C%23+%2F+.NET+Ecosystem;Python+%26+Backend+APIs;Modern+JavaScript+%26+Node.js;Relational+Databases+(MySQL%2C+MariaDB)" alt="Typing SVG" />
-  </a>
-
-  <br/><br/>
-
-  <!-- Status & Contact Badges -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=ikoo-aja&label=Profile+Views&color=0284c7&style=flat-square" alt="Profile Views" />
+    Software developer focused on building functional, maintainable web applications and backend systems.
+  </p>
+
+  <p align="center">
+    <a href="https://hits.sh/github.com/ikoo-aja/">
+      <img src="https://hits.sh/github.com/ikoo-aja.svg?style=flat-square&label=Profile+Views&color=0284c7" alt="Profile Views" />
+    </a>
     <a href="https://github.com/ikoo-aja">
       <img src="https://img.shields.io/badge/GitHub-ikoo--aja-0f172a?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
     </a>
